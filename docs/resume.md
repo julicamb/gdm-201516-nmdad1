@@ -1,8 +1,7 @@
 Resume
 ======
 
-![Foto julicamb](http://imgur.com/wIJpTAq  "Foto van Julien Cambier") 
-![De Maan](http://www.digital-photography-school.com/wp-content/uploads/2010/12/lunar-eclipse.jpg "Wondermooie Maan")
+[Imgur](http://i.imgur.com/wIJpTAq.jpg?1)
 
 Biografie
 ----------
