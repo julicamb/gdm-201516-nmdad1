@@ -2,7 +2,7 @@ Resume
 ======
 
 ![Foto julicamb](http://imgur.com/wIJpTAq  "Foto van Julien Cambier") 
-[Steve J]:http://www.insideris.com/wp-content/uploads/2012/04/stevejobbs.jpg "Steve Jobs"
+![De Maan](http://www.digital-photography-school.com/wp-content/uploads/2010/12/lunar-eclipse.jpg "Wondermooie Maan")
 
 Biografie
 ----------
