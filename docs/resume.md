@@ -1,7 +1,7 @@
 Resume
 ======
 
-![alt text](http://imgur.com/wIJpTAq?1  "Foto van Julien Cambier" ) 
+![Foto julicamb](http://imgur.com/wIJpTAq?1  "Foto van Julien Cambier") 
 
 Biografie
 ----------
@@ -11,11 +11,11 @@ Portfolio
 ----------
 ####Talen
 Ik ben meertalig en heb Wetenschappen-Talen gevolgd in het secundair.
-|#####Taal|#####Niveau|
-|frans|Moedertaal|
-|nederlands|Zeer goed|
-|engels|Goed|
-|duits|Basis|
+| #####Taal | #####Niveau |
+| frans | Moedertaal |
+| nederlands | Zeer goed |
+| engels |Goed |
+| duits | Basis |
 
 ####Onderwijs
 |#####Niveau|#####Jaar|#####School|#####Richting|
@@ -58,4 +58,4 @@ Softwarekennis
 
 Contactinformatie
 ----------------
-U kan mij altijd bereiken via [e-mail](mailto:mjulien.cambier@student.arteveldehs.be).
+U kan mij altijd bereiken via [e-mail](mailto:julien.cambier@student.arteveldehs.be).
