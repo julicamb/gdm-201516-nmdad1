@@ -19,14 +19,8 @@ Ik ben meertalig en heb Wetenschappen-Talen gevolgd in het secundair.
 | engels        | Goed            |
 | duits         | Basis           |
 
-| Item      |    Value | Qty  |
-| :-------- | --------:| :--: |
-| Computer  | 1600 USD |  5   |
-| Phone     |   12 USD |  12  |
-| Pipe      |    1 USD | 234  |
-
 ####Onderwijs
-| #####Niveau | #####Jaar | #####School                           | #####Richting                  |
+| Niveau | Jaar | School                           | Richting                  |
 | :---------- | :-------: | :------------------------------------ | :----------------------------- |
 | Primair     | 2002-2007 | Sint-Catharinacollege Zarlardinge     | /                              |
 | Secundair   | 2008-2014 | Sint-Catharinacollege Geraardsbergen  | Wetenschappen-Talen            |
