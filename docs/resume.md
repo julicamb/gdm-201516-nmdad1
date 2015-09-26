@@ -1,7 +1,7 @@
 Resume
 ======
 
-![Foto julicamb](http://imgur.com/wIJpTAq?1  "Foto van Julien Cambier") 
+![Foto julicamb](http://imgur.com/wIJpTAq  "Foto van Julien Cambier") 
 
 Biografie
 ----------
@@ -29,10 +29,10 @@ Ik ben meertalig en heb Wetenschappen-Talen gevolgd in het secundair.
 Werkervaring
 ------------
 
-|#####Werk|#####Locatie|#####Werknemer|#####Periode|
+|Werk|Locatie|Werknemer|Periode|
 |:-----|:----:|:-----|:-----:|
 |Planten & Onderhoud van Bloemen|Flobecq|Tuinwinkel Yernault|(Weekend) 2011|
-|Postbode|Moeskroen|Bpost|Augustus 2012|
+|Postbode|Moeskroen|Bpost|augustus 2012|
 |Postbode|Moeskroen|Bpost|juni-juli 2013|
 |Werker soorteercentrum|Brussel|Bpost|augustus-september 2014|
 |Postbode|Moeskroen|Bpost|juni-juli 2015|
