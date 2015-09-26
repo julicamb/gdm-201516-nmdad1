@@ -11,7 +11,7 @@ Portfolio
 ----------
 ####Talen
 Ik ben meertalig en heb Wetenschappen-Talen gevolgd in het secundair.
-| #####Taal | #####Niveau |
+| Taal | Niveau |
 |:-----------:|:-------------:|
 | frans | Moedertaal |
 | nederlands | Zeer goed |
