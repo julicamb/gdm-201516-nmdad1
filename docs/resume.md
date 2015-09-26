@@ -1,7 +1,7 @@
 Resume
 ======
 
-[Imgur](http://i.imgur.com/wIJpTAq.jpg?1)
+![foto julamb](http://i.imgur.com/wIJpTAq.jpg?1 "foto van Julien Cambier" )
 
 Biografie
 ----------
