@@ -11,12 +11,13 @@ Portfolio
 ----------
 ####Talen
 Ik ben meertalig en heb Wetenschappen-Talen gevolgd in het secundair.
-| Taal | Niveau |
+
+| Taal          | Niveau          |
 | :-----------: | :-------------: |
-| frans | Moedertaal |
-| nederlands | Zeer goed |
-| engels | Goed |
-| duits | Basis |
+| frans         | Moedertaal      |
+| nederlands    | Zeer goed       |
+| engels        | Goed            |
+| duits         | Basis           |
 
 | Item      |    Value | Qty  |
 | :-------- | --------:| :--: |
@@ -32,6 +33,7 @@ Ik ben meertalig en heb Wetenschappen-Talen gevolgd in het secundair.
 
 Werkervaring
 ------------
+
 |#####Werk|#####Locatie|#####Werknemer|#####Periode|
 |Planten & Onderhoud van Bloemen|Flobecq|Tuinwinkel Yernault|(Weekend) 2011|
 |Postbode|Moeskroen|Bpost|Augustus 2012|
