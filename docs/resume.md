@@ -30,6 +30,7 @@ Werkervaring
 ------------
 
 |#####Werk|#####Locatie|#####Werknemer|#####Periode|
+|:-----|:----:|:-----|:-----:|
 |Planten & Onderhoud van Bloemen|Flobecq|Tuinwinkel Yernault|(Weekend) 2011|
 |Postbode|Moeskroen|Bpost|Augustus 2012|
 |Postbode|Moeskroen|Bpost|juni-juli 2013|
