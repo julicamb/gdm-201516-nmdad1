@@ -2,6 +2,7 @@ Resume
 ======
 
 ![Foto julicamb](http://imgur.com/wIJpTAq  "Foto van Julien Cambier") 
+[Steve J]:http://www.insideris.com/wp-content/uploads/2012/04/stevejobbs.jpg "Steve Jobs"
 
 Biografie
 ----------
