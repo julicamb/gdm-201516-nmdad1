@@ -15,7 +15,7 @@ Ik ben meertalig en heb Wetenschappen-Talen gevolgd in het secundair.
 |:-----------:|:-------------:|
 | frans | Moedertaal |
 | nederlands | Zeer goed |
-| engels |Goed |
+| engels | Goed |
 | duits | Basis |
 
 | Item      |    Value | Qty  |
