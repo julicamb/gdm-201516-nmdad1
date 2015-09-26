@@ -26,7 +26,8 @@ Ik ben meertalig en heb Wetenschappen-Talen gevolgd in het secundair.
 | Pipe      |    1 USD | 234  |
 
 ####Onderwijs
-| Niveau      | Jaar      | School                                | Richting                       |
+| #####Niveau | #####Jaar | #####School                           | #####Richting                  |
+| :---------- | :-------: | :------------------------------------ | :----------------------------- |
 | Primair     | 2002-2007 | Sint-Catharinacollege Zarlardinge     | /                              |
 | Secundair   | 2008-2014 | Sint-Catharinacollege Geraardsbergen  | Wetenschappen-Talen            |
 | Hoger       | 2015-...  | Arteveldehogeschool Gent (Mariakerke) | GDM-MultimediaProductie ProDEV |
