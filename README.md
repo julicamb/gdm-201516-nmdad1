@@ -4,7 +4,7 @@ Github Repository voor het OLODO NMDAD-I
 
 Documenten
 --------------------
-* * [Resume](docs/resume.md)
+* [Resume](docs/resume.md)
 
 Auteurs
 --------------------
@@ -13,4 +13,4 @@ Auteurs
 
 **Github Account:** https://github.com/julicamb  
 **Bitbucket Account:** https://bitbucket.org/julicamb/  
-**Email:** [julien.cambier@student.arteveldehs.be](mailto:julien.cambier@student.arteveldehs.be).
+**Email:** [julien.cambier@student.arteveldehs.be](mailto:julien.cambier@student.arteveldehs.be)
