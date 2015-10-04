@@ -5,7 +5,7 @@ Resume
 
 Biografie
 ----------
-Mijn naam is **Julien Cambier**. Ik ben geboren op 28 april 1995 in Ath. Ik ging naar school in Geraardsbergen en nu studeer ik aan de Arteveldehogeschool in Gent (mariakerke). Mijn hobby's zijn command lines invoeren, github repositories maken en Markdown bestanden schrijven.
+Mijn naam is **Julien Cambier**. Ik ben geboren op 28 april 1995 in Ath. Ik ging naar school in Geraardsbergen en nu studeer ik aan de Arteveldehogeschool in Gent (mariakerke). Mijn hobby's zijn series en films kijken en af en toe ook wel eens gamen.
 
 Portfolio
 ----------
